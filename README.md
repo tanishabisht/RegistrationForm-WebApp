@@ -1,5 +1,8 @@
-# Registration Form
+# UI - Registration form
+This repository contains a simple registration form created using HTML and CSS. The form is styled with Bootstrap 4 to make it responsive. Please note that this form is not functional and is intended for UI practice only.
 
-This is a simple registration form that I made using html and css. Additional css framework that was used is Bootstrap 4 to make the calculator application responsive. This is not functioning and is only for UI practice. It is similar to my calculator UI as shown below:
+## Screenshot
+<img src="./RegForm_UI.JPG" style="width:45rem" />
 
-![No image found](./RegForm_UI.JPG)
+## Technologies used
+`HTML` `CSS` `Bootstrap`
